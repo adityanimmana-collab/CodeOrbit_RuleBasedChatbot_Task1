@@ -49,7 +49,7 @@ The chatbot can handle common greetings, simple questions, thank-you messages, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/adityanimmana-collab/CodeOrbit_RuleBasedChatbot_Task1
+git clone https://github.com/adityanimmana-collab/CodeOrbit_RuleBasedChatbot_Task1.git
 ```
 
 ### 2. Open the project folder
@@ -95,7 +95,7 @@ CodeOrbit_RuleBasedChatbot/
 │
 ├── chatbot.py
 ├── README.md
-└── screenshots/
+└── screenshots
 ```
 
 ## 👨‍💻 Internship Task
